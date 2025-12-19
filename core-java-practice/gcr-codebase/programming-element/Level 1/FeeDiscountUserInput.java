@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Fee_discount_user_input {
+public class FeeDiscountUserInput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
