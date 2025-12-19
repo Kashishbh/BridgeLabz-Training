@@ -1,6 +1,6 @@
-class Pen_distribution{
+class PenDistribution{
     public static void main(String[] args) {
-        int n=14;
+        int number=14;
         int people=3;
         int remaining=14%3;
         int destribute=14/3;
