@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-class Volume_of_Cylender {
+class VolumeCylender {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        double r = sc.nextDouble();
-        double h = sc.nextDouble();
+        double radius = sc.nextDouble();
+        double ht = sc.nextDouble();
 
-        double vol = Math.PI * r * r * h;
+        double vol = Math.PI * radius * radius * ht;
         System.out.println(vol);
     }
 }
