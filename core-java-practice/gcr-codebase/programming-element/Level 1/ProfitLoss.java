@@ -1,4 +1,4 @@
-class Profit_Loss{
+class ProfitLoss{
     public static void main(String[] args) {
         double CP=129;
         double SP=191;
