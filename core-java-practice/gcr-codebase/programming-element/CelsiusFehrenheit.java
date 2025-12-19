@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Celsius_to_Fehenheit{
+class CelsiusFehenheit{
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
