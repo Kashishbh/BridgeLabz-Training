@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-class Perimeter_of_Rectangle {
+class PerimeterRectangle {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
         double len = sc.nextDouble();
-        double w = sc.nextDouble();
+        double width = sc.nextDouble();
 
-        double perimeter = 2 * (len + w);
+        double perimeter = 2 * (len + width);
         System.out.println(perimeter);
     }
 }
