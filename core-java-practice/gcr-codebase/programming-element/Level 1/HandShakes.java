@@ -9,6 +9,6 @@ public class HandShakes {
 
         int handShakes = (numberOfStudents * (numberOfStudents - 1)) / 2;
 
-        System.out.println("The maximum number of possible handshakes is " + handshakes);
+        System.out.println("The maximum number of possible handshakes is " + handShakes);
     }
 }
