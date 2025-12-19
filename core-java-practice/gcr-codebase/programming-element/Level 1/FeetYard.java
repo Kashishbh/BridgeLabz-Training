@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Feet_to_yard {
+public class FeetYard {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
