@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Cm_to_inch {
+public class CmToInch {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
