@@ -4,7 +4,7 @@ In this there is a information regarding my daily worked enclosed in an week wis
 
 here is a weekly wised work
 
-&nbsp; 1.WEEK-1:Staring with git
+  1.WEEK-1:Staring with git
 
 ⦁	  16-12-2025 (Tuesday):Studied the basic command of git to make a repository named as BridgeLabz and to make a new branch of core-java-practice
 
@@ -15,4 +15,6 @@ here is a weekly wised work
 ⦁	                                      https://github.com/Kashishbh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-element⦁	\*\*19-12-2025(Friday):\*\*Worked on the control flow folder in which we solved a problems related to the control flows in java. here it is a link
 
 ⦁	                                       ⦁	20-12-2025(Saturday): Submit my assignment in the google classroom
+
+d
 
