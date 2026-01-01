@@ -16,8 +16,6 @@ class Item {
     public double calculateTotalCost(int quantity) {
         return price * quantity;
     }
-}
-public class TrackInventory{
     public static void main(String[] args) {
         Item item1 = new Item("01AA", "Water bottle", 500.0);
         Item item2 = new Item("01BB", "Rice", 700.0);
