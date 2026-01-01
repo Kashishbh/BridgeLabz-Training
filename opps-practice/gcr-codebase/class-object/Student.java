@@ -33,8 +33,6 @@ class Student {
         System.out.println("Grade " + calculateGrade());
         System.out.println();
     }
-}
-public class StudentReport{
     public static void main(String[] args) {
         Student student1 = new Student("Thamarai", "ECE001", 80.0, 70.0, 75.0);
         Student student2 = new Student("Kannan", "CSC002", 60.0, 65.0, 50.0);
