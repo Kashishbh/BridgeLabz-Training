@@ -29,8 +29,6 @@ class MovieTicket {
             System.out.println("Ticket have not booked yet....");
         }
     }
-}
-public class MovieTicketBooking{
     public static void main(String[] args) {
         MovieTicket ticket = new MovieTicket("Dragon", "A10", 120.0);
         ticket.displayTicket();
