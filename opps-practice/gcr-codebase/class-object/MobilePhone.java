@@ -15,8 +15,6 @@ class MobilePhone {
         System.out.println("Price of mobile: " + price);
         System.out.println("------------------------------");
     }
-}
-public class HandleMobileDetails{
     public static void main(String[] args) {
         MobilePhone phone1 = new MobilePhone("VIVO", "VIVO V29", 15999.0);
         MobilePhone phone2 = new MobilePhone("ONE PLUS", "ONE PLUS nord4", 39999.0);
