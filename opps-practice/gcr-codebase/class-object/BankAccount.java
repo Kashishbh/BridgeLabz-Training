@@ -24,8 +24,6 @@ class BankAccount {
     public void displayBalance() {
         System.out.println("Current balance: " + balance);
     }
-}
-public class ATM{
     public static void main(String[] args) {
         BankAccount account = new BankAccount("State of Chennai", "CHN001", 700.0);
         account.displayBalance();
