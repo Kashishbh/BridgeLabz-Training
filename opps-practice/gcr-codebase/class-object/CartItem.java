@@ -25,8 +25,6 @@ class CartItem {
     public void displayItem() {
         System.out.printf("Item: %s, Price: $%.2f, Quantity: %d%n", itemName, price, quantity);
     }
-}
-public class ShoppingCart{
     public static void main(String[] args) {
         CartItem laptop = new CartItem("Laptop", 999.99, 1);
         laptop.displayItem();
