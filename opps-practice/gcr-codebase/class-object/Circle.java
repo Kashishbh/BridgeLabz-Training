@@ -14,9 +14,7 @@ class Circle {
         System.out.printf("Area of circle: %.4f%n", area());
         System.out.printf("Circumference of circle: %.4f%n", circumference());
     }
-}
 
-public class AreaOfCircle{
     public static void main(String[] args) {
         Circle circle = new Circle(2.5);
         circle.displayDetails();
