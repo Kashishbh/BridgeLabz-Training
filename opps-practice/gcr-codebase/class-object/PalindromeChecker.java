@@ -20,8 +20,7 @@ class PalindromeChecker {
             System.out.println(text + " is not Palindrome");
         }
     }
-}
-public class PalindromeString{
+
     public static void main(String[] args) {
         PalindromeChecker pc1 = new PalindromeChecker("A man a plan a canal Panama");
         PalindromeChecker pc2 = new PalindromeChecker("Hello");
