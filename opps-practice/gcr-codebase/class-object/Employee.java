@@ -12,8 +12,6 @@ class Employee{
         System.out.println("Employee id: " + id);
         System.out.println("Employee Salary: " + salary);
     }
-}
-public class EmployeeDetails{
     public static void main(String[] args) {
         Employee emp = new Employee("Rohan", 1, 500000);
         emp.displayDetails();
