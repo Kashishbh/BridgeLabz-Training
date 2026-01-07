@@ -1,1 +1,184 @@
-# BridgeLabz-Training
+Daily Progress Log- BridgeLabz
+
+In this there is a information regarding my daily worked enclosed in an week wise pattern
+
+here is a weekly wised work
+
+1.WEEK-1:Staring with git
+
+
+
+16-12-2025 (Tuesday):Studied the basic command of git to make a repository named as BridgeLabz and to make a new branch of core-java-practice
+
+17-12-2025 (Wednesday):Worked on the Structure of the repository, solving the 5 Leetcode Problems here is the link for it
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase
+
+18-12-2025(Thursday):Worked on the programming elements folder in which we did a multiples problems related to that basic java programs here it is a link
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-element
+
+19-12-2025(Friday):Worked on the control flow folder in which we solved a problems related to the control flows in java. here it is a link
+
+20-Dec-2025 (Saturday):
+
+Completed and uploaded control flow-related problem sets.
+
+Control Flow Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
+
+Also gained hands-on experience with arrays in Java and submitted problems.
+
+Arrays Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays
+
+
+
+Week 2: Strengthening Core Java Concepts
+
+
+
+22-Dec-2025 (Monday):
+
+Started learning Java Strings, including basic string operations, escape characters, and introduction to exception handling.
+
+23-Dec-2025 (Tuesday):
+
+Continued string-related concepts and solved multiple string-based problems in Java, which were pushed to GitHub.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string
+
+Also, Solved scenario-based questions using loop constructs.
+
+24-Dec-2025 (Wednesday):
+
+Studied Java methods, including user-defined and recursive methods. Reorganized the repository structure according to the guidelines provided by the trainers.
+
+26-Dec-2025 (Friday):
+
+Submitted Java methods assignment covering different method types.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods
+
+Additionally, learned commonly used Java built-in functions along with date and time APIs.
+
+27-Dec-2025 (Saturday):
+
+Practiced and submitted additional string-based problems for better understanding.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string
+
+
+
+Week 3: Completion of Core Java and Beginning of OOPs
+
+29-Dec-2025 (Monday):
+
+Submitted assignments based on Java built-in functions.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extra
+
+Completed and uploaded all scenario-based and LeetCode problems.
+
+Scenario-Based Problems: https://github.com/Kashishbh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
+
+LeetCode Problems: https://github.com/Kashishbh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase
+
+Also completed and submitted the Employee Wage computation problem.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/EmployeeWageComputation.java
+
+30-Dec-2025 (Tuesday):
+
+Solved and uploaded the Line Comparison and Snake \& Ladder problems using Java.
+
+Line Comparison:https://github.com/Kashishbh/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LineComparison.java
+
+Snake \& Ladder: https://github.com/Kashishbh/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/SnakeLadder.java
+
+Started learning Object-Oriented Programming fundamentals, focusing on classes and objects.
+
+31-Dec-2025 (Wednesday):
+
+Learned about constructors, differences between instance and static variables, and access modifiers. Submitted class and object-related assignments.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object
+
+
+
+01-Jan-2026 (Thursday):
+
+Completed and submitted assignments related to constructors, instance variables, and access modifiers.
+
+Constructor:https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors
+
+
+
+Instance: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/instance
+
+
+
+Access Modifier:https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/access-modifiers
+
+
+
+Also learned about this, static, and final keywords.
+
+
+
+02-Jan-2026 (Friday):
+
+Submitted assignments covering this, static, and final concepts.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-final
+
+
+
+Designed object and class diagrams using Excalidraw and uploaded them.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design-principles
+
+
+
+Introduced to inheritance in Java.
+
+
+
+03-Jan-2026 (Saturday):
+
+Completed and submitted inheritance-based Java problems.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Inheritance
+
+
+
+Solved multiple scenario-based questions focused on OOP concepts.
+
+
+
+Week 4: Advancing in Object-Oriented Programming
+
+
+
+05-Jan-2026 (Monday):
+
+Worked on assignments related to key OOP principles such as encapsulation and polymorphism. Practiced scenario-based problems using Java.
+
+
+
+06-Jan-2026 (Tuesday):
+
+Submitted assignments on encapsulation and polymorphism.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-interface-abstract-class
+
+
+
+Additionally, submitted updated LeetCode and scenario-based problem solutions.
+
+LeetCode: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
+
+
+
+Scenario-Based: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+
+
+
