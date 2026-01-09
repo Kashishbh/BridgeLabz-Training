@@ -182,3 +182,33 @@ Scenario-Based: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-pract
 
 
 
+07-jan-2026(Wednesday):
+
+Solved Cab Booking / Ride Management System : Key Features (CRUD),Real Scenario.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/cab\_booking\_System
+
+Solved Online Banking System : Key Features (CRUD),Real Scenario.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/OnlineBanking
+
+
+
+08-jan-2026(Thursday):
+
+Submitted Assignment on LinkedList (Single Linked List, Double Linked List, Circular  Linked List).
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedlist
+
+
+
+09-jan-2026(Friday):
+
+Solved Scenario-Based Problems on OOPs Concept.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+
+Solved Leetcode Questions.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
+
