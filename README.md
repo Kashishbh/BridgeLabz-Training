@@ -168,7 +168,7 @@ Worked on assignments related to key OOP principles such as encapsulation and po
 
 Submitted assignments on encapsulation and polymorphism.
 
-Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-interface-abstract-class
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr- codebase/encapsulation-polymorphism-interface-abstract-class
 
 
 
@@ -208,7 +208,39 @@ Solved Scenario-Based Problems on OOPs Concept.
 
 Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
 
-Solved Leetcode Questions.
+Solved Leetcode Problems.
 
 Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
+
+
+
+Week 5:  Practicing Core Java And OOPs, And Started with DSA.
+
+
+
+12-jan-2026(Monday): Assigned with Scenario Based Problems, Implemented on the basis of Core Java and OOPs.
+
+Solved Leetcode Problems
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase
+
+
+
+13-jan-2026(Tuesday): Submitted Scenario Based Problems, Implemented on the basis of Core Java and OOPs.
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+
+Assigned with Stack , Queue, HashMap and Hashing Function Problems.
+
+Read and learn Sorting Algorithms.
+
+Solved Leetcode Problems
+
+Link: https://github.com/Kashishbh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase
+
+
+
+&nbsp; 
+
+
 
