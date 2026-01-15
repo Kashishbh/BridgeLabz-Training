@@ -1,3 +1,49 @@
+--> Repository Structure
+```text
+BridgeLabz-Training
+│
+├── core-java-practice    (branch & folder)
+│   │
+│   ├── gcr-codebase
+│   |   ├── arrays
+│   │   ├── control-flow
+│   │   ├── extras
+│   │   ├── methods
+│   │   ├── programming-elements
+│   |   └── strings
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+|
+├── oops-practice    (branch & folder)
+│   │
+│   ├── gcr-codebase
+|   |   ├── access-modifier
+|   |   ├── class-object
+|   |   ├── constructor
+│   │   ├── inheritance
+│   │   ├── instance
+|   |   ├── object-modelling
+|   |   ├── oops-pillars
+│   │   └── static-this-final-instanceOf
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+├── dsa-practice    (branch & folder)
+│   │
+│   ├── gcr-codebase
+|   |   ├── linked-list
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+├── reviews    (branch)
+```
+
 Daily Progress Log- BridgeLabz
 
 In this there is a information regarding my daily worked enclosed in an week wise pattern
