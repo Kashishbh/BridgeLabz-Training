@@ -291,4 +291,88 @@ Link-https://github.com/Kashishbh/BridgeLabz-Training/tree/dsa-practice/dsa-prac
 Solved Leetcode Problems
 Link-https://github.com/Kashishbh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase
 
+Week 6: Introduction to Advanced Java Concepts
+
+17-Jan-2026 (Saturday):
+Solved searching-related problems to strengthen problem-solving skills and understanding of algorithms.
+link:-https://github.com/Kashishbh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/searching
+
+20-Jan-2026 (Tuesday):
+Submitted assignment on Algorithm’s Runtime Analysis and Big-O Notation, focusing on time and space complexity concepts.
+link-https://github.com/Kashishbh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/notation
+Also implemented a scenario-based problem "CinemaTime – Movie Schedule Manager", which allows adding, viewing, and searching movie schedules.
+
+26-Jan-2026 (Monday):
+
+Submitted assignments on Java Generics, Collections, and Java Streams, gaining hands-on experience with reusable code and data handling.
+link-https://github.com/Kashishbh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics
+link-https://github.com/Kashishbh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections
+link-https://github.com/Kashishbh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/java-streams
+
+27-Jan-2026 (Tuesday):
+Completed and submitted Exception Handling assignment, covering try-catch, custom exceptions, and best practices.
+link-https://github.com/Kashishbh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exception-handling
+
+
+Week 7: Working with Collections, Streams, and Testing
+
+31-Jan-2026 (Saturday):
+Submitted assignments on Regex and JUnit, focusing on pattern matching and unit testing concepts.
+link-https://github.com/Kashishbh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit/JUnit
+link-https://github.com/Kashishbh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex
+
+02-Feb-2026 (Monday):
+Completed and submitted assignments on Annotations and Reflection.
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotation
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflection
+Also worked on CSV Data Handling for reading and writing structured data.
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-data-handling
+
+03-Feb-2026 (Tuesday):
+
+Worked on scenario-based problems such as "Factory Robot Hazard Analyzer" and "Stream Buzz".
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/FactoryRobotHazardAnalyzer
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/collections-practice/collections-practice/Scenario-based/streamBuzz
+Also submitted Stream API assignment to enhance functional-style programming skills.
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/stream-api
+
+04-Feb-2026 (Wednesday):
+Submitted assignment on JSON Data handling.
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json-data
+Also completed Lambda Expressions assignment for functional programming concepts.
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/lambda-Expressions
+
+05-Feb-2026 (Thursday):
+Solved "AeroVigil Problem" and worked on Design Patterns case study: Library Management System (LMS) using GoF patterns.
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/lambda-Expressions
+
+
+Week 8: Advanced Java Features and Scenario-Based Practice
+
+07-Feb-2026 (Saturday):
+
+Solved Collection-based scenario problem "OceanFleet", focusing on real-world use of collections.
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/collections-practice/collections-practice/Scenario-based/oceanFleet
+08-Feb-2026 (Sunday):
+Submitted assignments on Functional Interfaces and Collectors.
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/functional-interface
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/collectors
+Also completed Multi-Threading in Java assignment, understanding thread lifecycle and concurrency.
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/multi-threading
+
+09-Feb-2026 (Monday):
+
+Submitted SonarQube assignment to analyze code quality and maintainability.
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/sonarqube
+
+11-Feb-2026 (Wednesday):
+Worked on JUnit scenario-based problems.
+implemented scenario-based problems such as "Restaurant Table Reservation System" and "File Backup Scheduler".
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/collections-practice/collections-practice/Scenario-based
+Additionally, completed and submitted JDBC & DBMS assignment for database connectivity.
+link- https://github.com/Kashishbh/BridgeLabz-Training/tree/jdbc-dbms-practice/jdbc-dbms-practice/gcr-codebase/jdbc-dbms/healthclinic
+
+Week 9: Strengthening Concepts with Real Problems
+17-Feb-2026 (Tuesday):
+Revisited and implemented Employee Wage Computation Problem using advanced concepts and improved logic building.
 
