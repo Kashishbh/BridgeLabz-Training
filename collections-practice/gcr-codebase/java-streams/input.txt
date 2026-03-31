@@ -1,0 +1,4 @@
+Hello Java world
+This is FileReader example
+Reading file line by line
+Java IO is important

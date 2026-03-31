@@ -1,0 +1,6 @@
+System started successfully
+ERROR occurred
+File not found
+Error in module
+Operation completed
+
